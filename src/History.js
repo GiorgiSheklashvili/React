@@ -15,11 +15,7 @@ const History = (props) => {
         <tbody>
         {roundElements}
         </tbody>
-      );
-        // roundElements.map((round) => {
-        //     return round;
-        // })
-    
+      );    
   };
 
   export default History;

@@ -35,7 +35,7 @@ class SubmissionForm extends Component {
         if (event.keyCode === 13) {
         document.getElementById("submitButton").click();
         }
-});
+    });
 
     }
 
