@@ -1,12 +1,11 @@
 {
-    "presets": [
-      ["env", {
-        "modules": false,
-        "targets": {
-          "browsers": [">= 3%"]
-        }
-      }]
-    ],
-    "plugins": ["transform-object-rest-spread"]
-  }
-  
+  "presets": [
+    ["env", {
+      "modules": false,
+      "targets": {
+        "browsers": [">5%"]
+      }
+    }],
+    ["react"]
+  ]
+}
